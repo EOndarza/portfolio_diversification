@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Diversification
 
 Harold's company wants to build a diversified stock portfolio. So far, it has added `JNJ` (Johnson & Johnson) and `HD` (Home Depot), which reside within the Healthcare and Consumer Discretionary sectors, respectively. Now they want to add a third technology sector stock to the mix, in particular, a semiconductor stock.
@@ -39,3 +40,6 @@ Go [here](https://www.investopedia.com/terms/d/diversification.asp) to learn mor
 ---
 
 © 2019 Trilogy Education Services, a 2U, Inc. brand. All Rights Reserved.
+=======
+# portfolio_diversification
+>>>>>>> cf26891662e7a6528422418607a85e8b4570c77b
